@@ -1,0 +1,24 @@
+.add-test-list{
+    background: #4a4646;
+    line-height: 50px;
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.add-test-list span{
+    color: aliceblue;
+    font-size:20px;
+    margin-right: 60px; 
+    display: inline-block;
+}
+.add-test-list input{
+    display: inline-block;
+    width: 40%;
+    border-radius: 5px;
+    padding: 5px;
+}
+button{
+    margin-left: 10px;
+    border-radius: 5px;
+}
